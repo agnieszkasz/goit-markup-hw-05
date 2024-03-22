@@ -641,6 +641,7 @@ footer div.container {
   gap: 16px;
   border-radius: 4px;
   padding: 8px 24px;
+  min-width: 165px;
   width: 165px;
   height: 40px;
   background-color: #4d5ae5;
